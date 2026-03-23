@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11612.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convert", "convert.csproj", "{AC5566E0-ACBF-AE8A-61DB-DAAEF4A56530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bkit", "..\bkit\toolkit\bkit.csproj", "{A8AA0D7B-BDF1-FE0E-92AF-C42581989F90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5566E0-ACBF-AE8A-61DB-DAAEF4A56530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5566E0-ACBF-AE8A-61DB-DAAEF4A56530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5566E0-ACBF-AE8A-61DB-DAAEF4A56530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5566E0-ACBF-AE8A-61DB-DAAEF4A56530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8AA0D7B-BDF1-FE0E-92AF-C42581989F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AA0D7B-BDF1-FE0E-92AF-C42581989F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AA0D7B-BDF1-FE0E-92AF-C42581989F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AA0D7B-BDF1-FE0E-92AF-C42581989F90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD25DF02-532C-47DD-935A-38225B603190}
+	EndGlobalSection
+EndGlobal
